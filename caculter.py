@@ -1,4 +1,7 @@
 import random
+print('made by God_spud')
+print('report bugs or suggestions')
+print('GitHub page(https://github.com/Godspud/cactuler-Python)')
 while True:
     print("select an operation to perform:")
     print('E.evaluate equation')
