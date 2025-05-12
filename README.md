@@ -1,9 +1,9 @@
 # cactuler-Python
 
-#feel free to use this be include credit
+feel free to use this be include credit
 
-#i took like 5 lines from a friend the rest i coded
+I took like 5 lines from a friend the rest i coded
 
-#report bug
+report bug
 
 ideas for new functions welcome
